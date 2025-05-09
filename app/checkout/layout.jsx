@@ -1,6 +1,7 @@
-export const metadata = {
-  title: "E-commerce - Payment",
-};
+"use client"
+// export const metadata = {
+//   title: "E-commerce - Payment",
+// };
 const Layout = ({children}) => {
   return (
     <>{children}</>
