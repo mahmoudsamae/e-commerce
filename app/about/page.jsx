@@ -49,7 +49,7 @@ const page = () => {
             transition={{ duration: 0.5, delay: 0.3 }}
           >
             <Image
-              src="/about.jfif"
+              src="/about1.webp"
               alt="About Vogue Store - Elegant Clothing Display"
               width={600}
               height={400}
